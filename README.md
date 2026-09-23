@@ -18,3 +18,7 @@ After reading the Instructions this seems to be exactly what is expected so let'
 
 Gained Knowledge:
 * If you add and commit in a subdirectorie only files within this directory will be added and commited
+* VSCode auto complete was partially annoying, especially since I am not yet used to getting my code completed but definitely a useful tool
+
+After completing this task, I do have to say that it is kind of statisfying to see the result, I am not entirely happy with it yet but it includes what we went over and for that is completely fine.
+I also think that this is kind of nice since I wanted to write a recipe book either way and I might expand on that in the future. Friends next to me already asked about them so I can now send them the public Link :D
