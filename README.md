@@ -15,3 +15,6 @@ As I did not yet Read the requirements of this Assignment the following subjects
 After reading the Instructions this seems to be exactly what is expected so let's get to work ...
 
 ## After Completion
+
+Gained Knowledge:
+* If you add and commit in a subdirectorie only files within this directory will be added and commited
