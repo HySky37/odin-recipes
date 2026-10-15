@@ -1,9 +1,25 @@
 body{
     text-align: center;
-    background-color: white;
+    background-color: beige;
     border: 1px solid black;
 }
 
+h3 {
+    background-color: honeydew;
+}
+
+ul {
+    display: inline-block;
+    list-style-type: none;
+}
+
+ol {
+    text-align: left;
+}
+
+li {
+    padding: 3px
+}
 
 .link-list {
     display: flex;
@@ -19,7 +35,7 @@ body{
     display: block;
 }
 
-li:hover {
+.link-list li:hover {
     background-color: aqua;
     zoom: 1.2;
 }
