@@ -11,7 +11,7 @@ body{
 
 }
 
-li {
+.link-list li {
     background-color: bisque;
     padding: 20px;
     width: 100px;
