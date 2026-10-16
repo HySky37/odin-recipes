@@ -24,13 +24,23 @@ li {
 .link-list {
     display: flex;
     justify-content: center;
+}
 
+.link-list img {
+    display: block;
+    margin: auto;
+    width: 90%;
+    aspect-ratio: 4/3;
+    object-fit: cover;
 }
 
 .link-list li {
     background-color: bisque;
     padding: 20px;
-    width: 100px;
+    height: 5%;
+    min-width: 100px;
+    max-width: 250px;
+    width: 20%;
     margin: auto 20px;
     display: block;
 }
