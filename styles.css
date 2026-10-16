@@ -43,6 +43,7 @@ li {
     width: 20%;
     margin: auto 20px;
     display: block;
+    font-size: 1rem;
 }
 
 .link-list li:hover {
