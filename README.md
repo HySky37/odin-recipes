@@ -22,3 +22,16 @@ Gained Knowledge:
 
 After completing this task, I do have to say that it is kind of statisfying to see the result, I am not entirely happy with it yet but it includes what we went over and for that is completely fine.
 I also think that this is kind of nice since I wanted to write a recipe book either way and I might expand on that in the future. Friends next to me already asked about them so I can now send them the public Link :D
+
+
+## Expansion
+
+In later lessons Assignments recommend to go back to this task and expand with gained knowledge. 
+
+Expansion:
+* Added CSS including hover, centered text, boxes
+* Added more Recipes and Details
+
+Once CSS has been set up it is fairly quick and easy to expand covered recipes and make the whole page seem more impressive.
+
+It is important to note, that The Odin Project past the initial completion does not provide any specifications on how anything should be added. Therefore all Styles are up to my own preferences and Ideas. The Baseline came guided from The Odin Project, but anything further is up to own judgment.
